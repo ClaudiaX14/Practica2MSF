@@ -46,10 +46,15 @@ Palabras clave: Controlador PI; Sistema Cardiovascular; Normotenso; Hipotenso; H
 
 ## Lista de archivos incluidos en el repositorio
 \1. Cuaderno computacional de MATLAB [.mlx].
+
 \2. Modelo de Simulink [.slx].
+
 \3. Archivos de Spyder [.py].
+
 \4. Imagen con los parámetros del controlador.
+
 \5. Imágenes de las simulaciones [.pdf y .png].
+
 \6. Evidencia del análisis matemático: función de transferencia, modelo de ecuaciones integro-diferenciales, error en estado estacionario y estabilidad en lazo abierto.
 
 ## Referencias
